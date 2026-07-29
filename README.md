@@ -16,20 +16,17 @@ The LC oversees:
 
 ### Leadership Council Members
 
-The Leadership Council is composed of one representative designated by each working group. Because the Project is still in its early stages and working groups have not yet been formed, a provisional Leadership Council is currently serving in this capacity until working group representation is in place.
+The Leadership Council is composed of one representative designated by each working group.
 
-
-| Name | GitHub | Affiliation | Term |
-| ---- | ------ | ----------- | ---- |
-| Andrew Clark (Chair) | @acdlite | Vercel | Provisional |
-| Jack Pope | @jackpope | Individual | Provisional |
-| Matt Carroll | @mattcarrollcode | Meta Platforms | Provisional |
-| Mofei Zhang | _TBD_ | Meta Platforms | Provisional |
-| Moti Zilberman | _TBD_ | Meta Platforms | Provisional |
-| Nicola Corti | @cortinico | Meta Platforms | Provisional |
-| Ricky Hanlon | @rickhanlonii | Meta Platforms | Provisional |
-| Sebastian Silbermann | _TBD_ | Individual | Provisional |
-| Sophie Alpert | @sophiebits | Clay Labs | Provisional |
+| Working Group | Repository | LC Representative |
+| ------------- | ---------- | ----------------- |
+| Compiler | TBD | Mofei Zhang (@mofeiZ) |
+| Docs & Community | TBD | Rick Hanlon (@rickhanlonii) |
+| DOM | TBD | Jack Pope (@jackpope) |
+| DX | TBD | Moti Zilberman (@motiz88) |
+| Fiber | TBD | Andrew Clark (@acdlite) |
+| React Native | TBD | Nicola Corti (@cortinico) |
+| Server | TBD | Sebastian Silbermann (@eps1lon) |
 
 <!-- **Note:** Term lengths, quorum thresholds, and other operational parameters are defined in the [Leadership Council Operations Policy](./policies/leadership-council-operations-policy.md).-->
 
@@ -42,12 +39,6 @@ The LC maintains the following policy documents. These can be amended through pr
 | [Working Group Policy TBD](./policies/working-group-policy.md) | How Working Groups are created, governed, and retired |
 | [React Change Proposal Policy TBD](./policies/react-change-proposal-policy.md) | The process for proposing and approving technical changes |
 | [Leadership Council Operations Policy TBD](./policies/leadership-council-operations-policy.md) | Meeting procedures, voting, quorum, and term management |
-
-## Working Groups
-
-Active Working Groups operate under the authority delegated by the LC. Each WG has its own charter and repository.
-
-_TBD_
 
 ## Meetings
 
