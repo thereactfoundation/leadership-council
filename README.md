@@ -20,7 +20,7 @@ The Leadership Council is composed of one representative designated by each work
 
 | Working Group | Repository | LC Representative |
 | ------------- | ---------- | ----------------- |
-| Compiler | TBD | Mofei Zhang (@mofeiZ) |
+| Compiler | TBD | Vacant |
 | Docs & Community | TBD | Rick Hanlon (@rickhanlonii) |
 | DOM | TBD | Jack Pope (@jackpope) |
 | DX | TBD | Moti Zilberman (@motiz88) |
