@@ -38,7 +38,7 @@ The LC maintains the following policy documents. These can be amended through pr
 | ------ | ----------- |
 | [Working Group Policy TBD](./policies/working-group-policy.md) | How Working Groups are created, governed, and retired |
 | [React Change Proposal Policy TBD](./policies/react-change-proposal-policy.md) | The process for proposing and approving technical changes |
-| [Leadership Council Operations Policy TBD](./policies/leadership-council-operations-policy.md) | Meeting procedures, voting, quorum, and term management |
+| [Leadership Council Operations Policy](./policies/leadership-council-operations-policy.md) | Meeting procedures, voting, quorum, and term management |
 
 ## Meetings
 
