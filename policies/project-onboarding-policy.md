@@ -24,7 +24,7 @@ To start the approval process, email [technical-leadership-council@lists.react.f
 
 ## Step 2: Working Group home
 
-Each project must have a home under an existing Working Group. If no existing Working Group is a fit, a new Working Group must be formed under the Working Group Policy before the project can proceed.
+The Working Group for the project will be determined by the Leadership Council during the approval process. The project may join an existing Working Group, or a new Working Group may be formed under the Working Group Policy.
 
 ## Step 3: Project Contribution Agreement
 
